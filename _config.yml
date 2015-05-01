@@ -1,0 +1,12 @@
+# Site settings
+title: Diego G. Arigony
+email: diegoarigony@hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  diegoarigony.github.io
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://diegoarigony.com" # the base hostname & protocol for your site
+twitter_username: diegoarigony
+github_username:  diegoarigony
+
+# Build settings
+markdown: kramdown
